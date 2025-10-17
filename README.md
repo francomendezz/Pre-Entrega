@@ -26,10 +26,11 @@ InfoHard es una página web de información y venta de componentes de PC. Permit
 - \<section>: para agrupar información de componentes, videos, productos y contacto.
 - \<div>: contenedores de productos, items y estilos específicos.
 - \<h1> - \<h3>: títulos de página y secciones.
-- \p>: párrafos de información.
+- \<p>: párrafos de información.
 - \<img>: imágenes de productos y logos.
 - \<form>: formulario de contacto.
 - \<iframe>: video de YouTube.
 - \<footer>: pie de página con redes sociales.
+
 
 
